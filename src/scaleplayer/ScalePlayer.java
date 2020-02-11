@@ -17,6 +17,7 @@ import javafx.stage.Stage;
  * @author Put your name here!
  * @author Put your partner's name here!
  * @since January 26, 2017
+ * feb 11 2020
  */
 public class ScalePlayer extends Application {
     
