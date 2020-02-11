@@ -122,7 +122,7 @@ public class ScalePlayer extends Application {
 
     /**
      * adjusts the TextInputDialog to proper specifications
-     * @param inputWindow the textinputdialog window
+     * @param inputWindow the text inputdialog window
      * @param midiPlayer allows sound to be played
      */
     public void createInputWindow(TextInputDialog inputWindow, MidiPlayer midiPlayer){       
