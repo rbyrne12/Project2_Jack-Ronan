@@ -37,7 +37,7 @@ public class ScalePlayer extends Application {
         
         Scene scene = new Scene(root, 300, 250);
         
-        primaryStage.setTitle("Hello World!");
+        primaryStage.setTitle("Hellooooooooooooooo World!");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
