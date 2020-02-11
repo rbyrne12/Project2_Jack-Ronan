@@ -35,6 +35,7 @@ public class MidiPlayer
                                                     resolution, NUM_TRACKS);
             sequencer.setSequence(sequence);
             sequencer.setTempoInBPM(beatsPerMinute);
+            sequencer.setLoopCount(sequencer.LOOP_CONTINUOUSLY);
         } catch (InvalidMidiDataException e) {
             e.printStackTrace();
         } catch (MidiUnavailableException e) {
