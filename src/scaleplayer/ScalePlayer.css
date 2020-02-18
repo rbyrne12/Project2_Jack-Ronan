@@ -1,0 +1,15 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#PlayScaleButton{
+    -fx-background-color: #90EE90;
+}
+
+#StopScaleButton{
+    -fx-background-color: #FFC0CB;
+}
+
+#StackPane{
+    -fx-background-color: #B57EDC;
+}
