@@ -19,8 +19,8 @@ import javafx.scene.control.Alert.AlertType;
 /**
  * This JavaFX app lets the user play scales.
  * @author Janet Davis 
- * @author Put your name here!
- * @author Put your partner's name here!
+ * @author Ronan Byrne
+ * @author Jack Taylor
  * @since January 26, 2017
  */
 public class ScalePlayer extends Application {
